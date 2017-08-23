@@ -1,0 +1,7 @@
+server:
+       port: 8080
+       contextPath: /devpoc
+       
+spring:
+  application:
+    name: DevOpsPOC
